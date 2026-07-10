@@ -32,7 +32,6 @@ Professional service
 
 Awards
 ======
-* Third Prize, EPFL G-Research Doctoral Prize, 2026
 * Early Career Poster Competition Winner, European Causal Inference Meeting, University of Oxford, April 2026
 
 Languages

@@ -3,7 +3,6 @@ title: "Optimal regimes with limited resources"
 collection: publications
 category: preprints
 permalink: /publication/2024-03-28-optimal-regimes-limited-resources
-excerpt: 'We study optimal dynamic treatment regimes when resources available for treatment are constrained, and units interfere with each other through this shared constraint.'
 date: 2024-03-28
 venue: 'arXiv:2403.19842 [stat.ME]'
 paperurl: 'https://arxiv.org/abs/2403.19842'
