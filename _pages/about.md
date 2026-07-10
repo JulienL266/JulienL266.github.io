@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year PhD candidate in Mathematics at [EPFL](https://www.epfl.ch), working in the [BIOSTAT lab](https://www.epfl.ch/labs/biostat/) under the supervision of Prof. [Mats Stensrud](https://www.epfl.ch/labs/biostat/). My research focuses on causal inference and statistical methodology and theory.
+I am a last-year PhD candidate in Mathematics at [EPFL](https://www.epfl.ch), working in the [BIOSTAT lab](https://www.epfl.ch/labs/biostat/) under the supervision of Prof. [Mats Stensrud](https://people.epfl.ch/mats.stensrud). My research focuses on causal inference and statistical methodology and theory.
 
-Most of my work is on **optimal regimes** in causal inference: how to identify, estimate, and choose an optimal decision rule, combining algorithmic and human knowledge, using experimental or observational data, under limited or unlimited resources, for single or multiple sequential decisions.
+Most of my work is on optimal regimes in causal inference: how to identify, estimate, and choose an optimal decision rule, combining algorithmic and human knowledge, using experimental or observational data, under limited or unlimited resources, for single or multiple sequential decisions.
 
 I have also worked on:
-- Estimation under **interference between units** arising from limited resources.
-- **Effect heterogeneity**, including binning covariates for decision-making, and for subgroup selection and inference.
+- Estimation under interference between units arising from limited resources.
+- Effect heterogeneity, including binning covariates for decision-making, and for subgroup selection and inference.
 
 Feel free to reach out or check out my [publications](/publications/) and [Google Scholar](https://scholar.google.com/citations?hl=fr&user=5XkOYbYAAAAJ) profile.

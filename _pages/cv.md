@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), 2023–present
+  * Thesis advisor: Prof. Mats Stensrud, Chair of Biostatistics
+* M.Sc. in Mathematics, with distinction, ETH Zürich, 2021–2023
+  * Master's thesis: *Quantile Treatment Effects*, supervised by Prof. Nicolaï Meinshausen
+* B.Sc. in Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), 2018–2021
+  * Bachelor's thesis: *The Generalized Minimum Manhattan Network Problem*, supervised by Dr. Martina Gallato and Prof. Friedrich Eisenbrand, Chair of Discrete Optimization
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2022: Summer Intern, Chair of Biostatistics, EPFL
+  * Supervisor: Prof. Mats Stensrud
+* 2022–2023: Research Assistant, Faculty of Macroeconomics, ETH Zürich
+  * Supervisor: Prof. Hans Gersbach
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Professional service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reviewer, Journal of the American Statistical Association, 2024–2026
+* Reviewer, Journal of Machine Learning Research, 2024–2026
+
+Awards
+======
+* Third Prize, EPFL G-Research Doctoral Prize, 2026
+* Early Career Poster Competition Winner, European Causal Inference Meeting, University of Oxford, April 2026
+
+Languages
+======
+* English (native), French (native), German (conversational)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
