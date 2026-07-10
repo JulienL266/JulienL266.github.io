@@ -10,11 +10,6 @@ var addressPoints = [
     6.6327025
   ],
   [
-    "On the guarantees of optimal regimes in survival settings<br />Joint Statistical Meetings; Boston, USA",
-    42.3588336,
-    -71.0578303
-  ],
-  [
     "Optimal sequential decision-making with initiation regimes<br />46th Annual Conference of the International Society for Clinical Biostatistics (ISCB), Biozentrum of University of Basel and Department of Biosystems Science and Engineering (D-BSSE) of ETH Z\u00fcrich; Basel, Switzerland",
     47.5581077,
     7.5878261
@@ -28,11 +23,6 @@ var addressPoints = [
     "Optimal sequential decision-making with initiation regimes<br />Swiss Statistics Seminar, Universit\u00e4t Bern; Bern, Switzerland",
     46.9484742,
     7.4521749
-  ],
-  [
-    "Finding treatment regimes with optimality guarantees of practical interest<br />Joint Statistical Meetings; Boston, USA",
-    42.3588336,
-    -71.0578303
   ],
   [
     "Optimal sequential decision-making with initiation regimes<br />Causal Inference in the Health Sciences Symposium, University of Zurich; Zurich, Switzerland",
