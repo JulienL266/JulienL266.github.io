@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/julien_laurendeau_cv.pdf" class="btn btn--primary" target="_blank" rel="noopener">Download CV (PDF)</a>
+
 Education
 ======
 * Ph.D in Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), 2023–present

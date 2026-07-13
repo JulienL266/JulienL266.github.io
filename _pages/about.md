@@ -15,4 +15,6 @@ I have also worked on:
 - Estimation under interference between units arising from limited resources.
 - Effect heterogeneity, including binning covariates for decision-making, and for subgroup selection and inference.
 
+Prior to this I completed my Bachelor of Science in Mathematics at EPFL and my Master's of Science in Mathematics at ETH Zurich, with distinction. I completed my Master's thesis in Mathematics on Quantile Treatment Effects under the supervision of Prof. Nicolai Meinshausen.
+
 Feel free to reach out or check out my [publications](/publications/) and [Google Scholar](https://scholar.google.com/citations?hl=fr&user=5XkOYbYAAAAJ) profile.
